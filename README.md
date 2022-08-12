@@ -28,11 +28,6 @@ This file is going to be a reference to future software developers that focus on
 ## Criteria
 Create an informative guide to one of the most important topics for new developers. Showing some examples of Regex that could be a great example for someone out there that needs help. 
 
-## Installation
-
-
-## Usage
-
 
 ## License
 Boost Software 1.0 License
@@ -42,10 +37,22 @@ Cristian Gonzalez
 
 ## Tests
 
+![image](https://user-images.githubusercontent.com/34308684/184455554-c92527be-5d17-41d6-99f3-37e06df3d6e2.png)
+
+Output:
+
+![image](https://user-images.githubusercontent.com/34308684/184455572-4e45870b-734a-4e3c-9b42-8464cc7755ab.png)
+
+Here is a simple program that is going to verify if you are typing a valid Full name: Using Regex
+
+![image](https://user-images.githubusercontent.com/34308684/184455757-b77ea3c6-efe1-4542-a89f-590ba5fd46b5.png)
+
+ Output:
+ 
+ ![image](https://user-images.githubusercontent.com/34308684/184455793-98129d48-11f2-42b9-818b-1a37811c2675.png)
 
 ## Questions
  
-
 https://github.com/cr7st74n
 
 cris-082011@hotmail.com
